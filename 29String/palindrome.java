@@ -8,9 +8,6 @@ class palandrome{
                 return -1;
                 
             }
-            else{
-               
-            }
             last--;
         }
         return 1;
