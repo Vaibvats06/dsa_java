@@ -9,14 +9,10 @@ public class Stringbuider{
             }
             else{
                 sb.append((str.charAt(i)));
-
             }
         }
         System.out.println(sb);
-
-        
     }
-
     public static void main(String[] args){
         String str="    my name is vAibhav vats and i want take a intership.";
         Upper(str);
